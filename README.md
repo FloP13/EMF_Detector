@@ -13,4 +13,4 @@ Martin De Bie avec son Tshirt antenne
 Il permet de détecter les fantomes, les lutins et les greemlins et de récupérer les résultats.
 
 #Matériel envisagé
-Antenne, Buzzer, LED
+Antenne, Buzzer, LED.
