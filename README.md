@@ -44,3 +44,4 @@ Pour réaliser ce projet il vous faudras :
 
 
 ## Schéma
+[emf_schema](https://raw.githubusercontent.com/FloP13/EMF_Detector/master/emf.png)
