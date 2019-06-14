@@ -23,7 +23,7 @@ Ou encore un EMF avec un arduino comme réalisé ici avec un petit ecran à led 
 
 
 ## Utilisation
-Pour utiliser notre solution il vous faut tout d'abord configurer le wifi en décommentant la ligne 145, téléverser, se connecter au réseau WIFI "EMFSensor", configurer le WIFI de la carte, recommenter la ligne, re-téléverser, une fois ceci fait il faut se connecter au même wifi que celui configuré sur l'appareil, puis accéder à la l'adresse http://EMFSensor.local, enjoy.
+Pour utiliser notre solution il vous faut tout d'abord configurer le wifi en décommentant la ligne 145 dans le fichier "emf_detector.ino", téléverser, se connecter au réseau WIFI "EMFSensor", configurer le WIFI de la carte, recommenter la ligne, re-téléverser, une fois ceci fait il faut se connecter au même wifi que celui configuré sur l'appareil, puis accéder à la l'adresse http://EMFSensor.local, enjoy.
 
 ##  Matériel utilisé
 Pour réaliser ce projet il vous faudras :
